@@ -33,10 +33,3 @@ An **interactive campaign performance tracker** with:
 - ROI by ad spend vs. conversions  
 - Campaign comparison across Facebook & Instagram  
 
----
-
-## 🖼️ Dashboard Preview
-*(Add your screenshot here after creating an `images/` folder)*
-
-```markdown
-![Dashboard Preview](images/campaign_tracker.png)
